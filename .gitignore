@@ -1,0 +1,6 @@
+# VIM
+**.swp
+**.swo
+
+**/node_modules
+**/.env
